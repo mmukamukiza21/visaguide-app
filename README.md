@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🌍 Global Visa Guide Application
 
 ## Overview
