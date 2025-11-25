@@ -1,4 +1,12 @@
-cat << 'EOF' > README.md
+# 🌍 Global Visa Guide Application
+
+## 🚀 Live Demo
+**Try it now:** [http://3.91.179.247](http://3.91.179.247)
+
+> ⚠️ **Important:** Do NOT just download `index.html` from GitHub. Either use the live demo above OR clone the full repository and run `npm start` (see instructions below).
+
+---
+
 # 🌍 Global Visa Guide Application
 
 ## Overview
